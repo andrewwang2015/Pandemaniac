@@ -1,0 +1,2 @@
+# Pandemaniac
+Using centrality measures to take over large portions of graphs. Ceate an algorithm that will take as input an undirected graph (in adjacency-list form) and output a list of N seed nodes where your epidemic will start (where N is given). Compete against other teams who are also trying to spread their epidemics on the same graph.  Goal is to take over more of the network (i.e., a larger number of nodes) with your epidemic than your competitors do with theirs.
